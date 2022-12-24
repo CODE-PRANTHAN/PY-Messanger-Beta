@@ -1,0 +1,6 @@
+ Python 2.7 or higher
+ smtplib 
+ email.mime.multipart 
+ email.mime.text
+ aiohttp==3.8.3
+marshmallow==3.14.1
